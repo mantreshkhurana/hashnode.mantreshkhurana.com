@@ -5,7 +5,7 @@ seoDescription: "My name is Mantresh Khurana, and I am a software engineer. I ha
 datePublished: Wed May 31 2023 15:43:53 GMT+0000 (Coordinated Universal Time)
 cuid: clibvns8p000109lc4ofocodo
 slug: welcome-to-my-blog
-tags: blog, getting-started, first-post-1, new-blog
+tags: blog, getting-started, first-post-1
 
 ---
 
