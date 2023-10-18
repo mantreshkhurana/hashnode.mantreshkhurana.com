@@ -6,6 +6,7 @@ datePublished: Wed Oct 18 2023 16:12:13 GMT+0000 (Coordinated Universal Time)
 cuid: clnvybhex00000ai9b5jx6nuu
 slug: hashnode-debut-hello-world
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xG8IQMqMITM/upload/2973c37d14bd941b56eacf38b999db6c.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697645769767/b5a2aa04-d171-4e62-a310-9fb8aa28332e.webp
 tags: hello-world, first-blog, mantresh-khurana, mantresh, spyxpo
 
 ---
