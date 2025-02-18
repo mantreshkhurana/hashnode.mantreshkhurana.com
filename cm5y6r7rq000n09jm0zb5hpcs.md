@@ -68,6 +68,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 📧 Connect with Me
 
-If you have questions, suggestions, or ideas, feel free to reach out: • GitHub: Mantresh Khurana • Email: mailto://mantreshkhurana@spyxpo.com
+If you have questions, suggestions, or ideas, feel free to reach out:
 
 Check out the repository and start your journey into toxicity detection today! 🚀
