@@ -5,6 +5,7 @@ seoDescription: "Welcome to the Twitter Toxicity Detection Flask App repository!
 datePublished: Wed Jan 15 2025 17:38:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm5y6r7rq000n09jm0zb5hpcs
 slug: building-a-flask-based-twitter-toxicity-detection-app
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739865480638/d12883a3-8275-4cb3-bce0-8979d35e5778.jpeg
 tags: twitter, python, machine-learning, scikit-learn
 
 ---
