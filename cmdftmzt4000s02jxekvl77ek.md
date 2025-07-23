@@ -7,10 +7,6 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1753266544719/90a58
 
 ---
 
-Here’s a full **Hashnode-style blog** post for the [Weatherify GitHub project](https://github.com/mantreshkhurana/weatherify). You can copy and paste this into Hashnode with formatting as needed:
-
----
-
 # **🌤️ Weatherify: Your Minimal Weather Companion App Built with Flutter**
 
 In today’s fast-paced world, checking the weather shouldn’t feel like navigating a maze of pop-ups and ads. That’s exactly the motivation behind [**Weatherify**](https://github.com/mantreshkhurana/weatherify) — a clean, open-source, cross-platform weather app that tells you exactly what you need to know, with zero clutter.
