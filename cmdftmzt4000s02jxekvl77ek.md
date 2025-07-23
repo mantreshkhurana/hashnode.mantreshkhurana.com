@@ -115,7 +115,7 @@ flutter run -d chrome
 Create a .env or update the constants with your **OpenWeather API key** in the project.
 
 ```plaintext
-const String apiKey = "YOUR_API_KEY_HERE";
+OPEN_WEATHER_API_KEY="your_actual_api_key_here"
 ```
 
 ---
