@@ -155,5 +155,3 @@ Check it out on GitHub, star the repo ⭐, and let’s build better apps togethe
 🔗 **GitHub**: [https://github.com/mantreshkhurana/weatherify](https://github.com/mantreshkhurana/weatherify)
 
 ---
-
-Would you like me to generate an **OpenGraph image/banner** for this blog?
