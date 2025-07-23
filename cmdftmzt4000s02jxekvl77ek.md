@@ -58,8 +58,6 @@ Flutter’s multi-platform capabilities make this possible, and the app is respo
 
 ## **📸 Screenshots**
 
-> *(Add your screenshots here when posting on Hashnode — from Android, iOS simulator, or browser.)*
-
 * Clean UI
     
 * Search bar to find weather in any city
