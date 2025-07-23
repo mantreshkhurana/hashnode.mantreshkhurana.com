@@ -56,7 +56,14 @@ Flutter’s multi-platform capabilities make this possible, and the app is respo
 
 ---
 
-## **📸 Screenshots**
+## Screenshots
+
+| Platform | Screenshot |
+|----------|------------|
+| iOS      | ![ios screenshot](https://github.com/mantreshkhurana/weatherify/raw/stable/screenshots/ios.png) |
+| Android  | !{android screenshot](https://github.com/mantreshkhurana/weatherify/raw/stable/screenshots/android.png) |
+| Web      | ![web screenshot](https://github.com/mantreshkhurana/weatherify/raw/stable/screenshots/web.png) |
+
 
 * Clean UI
     
